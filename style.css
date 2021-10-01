@@ -1,0 +1,83 @@
+.container{
+    margin: auto;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.cont{
+    margin-left: 50px;
+    display: inline;
+}
+
+.cont1{
+    display: inline;
+    margin-left: 250px;
+}
+
+form{
+    display: inline;
+}
+
+.plus{
+    
+    text-decoration: none;
+}
+
+.bi-plus-circle-fill{
+    margin-right: 10px;
+    fill: red;
+}
+
+.task{
+    font-family: arial;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.list{
+    font-family: arial;
+    font-size: 50px;
+    color: grey;
+}
+
+.list1{
+    font-family: arial;
+    font-size: 42px;
+    color: grey;
+
+}
+
+.block{
+    
+    border: 1px red solid;
+    border-radius: 15px;
+    /* box-shadow: 1px 1px gray; */
+    box-shadow: grey 5px 5px 10px;
+    display: inline-block;
+    width: 12%;
+    height: 300px;
+    margin: 50px;
+    margin-top: 30px;
+    text-align: left;
+    padding-left: 30px;
+    color: rgb(247, 28, 28);
+    font-family: arial;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.completed{
+    color: red;
+    text-decoration: line-through;
+    font-size: 18px;
+    margin-top: 30px;
+}
+input{
+    margin-left: -20px;
+    color: black;
+}
+
+.pending{
+    color: black;
+}
